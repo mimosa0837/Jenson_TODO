@@ -13,9 +13,3 @@
 - ### JavaScript
 
 使用jQuery框架
-
-## 快速开始
-
-```
-npm start
-```
